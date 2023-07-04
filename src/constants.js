@@ -1,4 +1,4 @@
-const HOST = 'https://meta.makotodigital.art'
+const HOST = 'https://meta.bnetly.art'
 
 module.exports = {
   HOST
